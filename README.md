@@ -4,3 +4,5 @@
 
 - [TravelTide Video Presentation] (https://www.loom.com/share/9eeed77b30434166ac0131ad8bbabd8b?sid=3baa3a07-1633-4867-b372-b23621007e5b)
 - [TravelTide Tableau Dashboard] (https://public.tableau.com/app/profile/haritha.tadisetty/viz/travetidedata/TravelTide?publish=yes)
+- ![image](https://github.com/user-attachments/assets/6573ebe0-fa29-4d01-b3c3-c2159c6e6010)
+
